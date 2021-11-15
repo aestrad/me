@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/aestrad/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I've been a professional developer since 2008, using a broad range of technologies. My passion is creating applications using PHP, Python, Node, C#, JavaScript/TypeScript, Angular, ReactJs, PowerShell. I'm also a formally trained Computer repair technician, so hardware is not a problem and can handle full-stack projects from napkin-scribbling to finished product.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm very enthusiastic, easy to get along and work with and love to help, teach and get others excited about programming and web development. In my spare time, I love to travel with my family, spend time at the beach (love the Caribbean), explore, learn from Open Source projects, trying things out and enjoy time with my son.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aestrad/me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+abestrad at outlook dot com
