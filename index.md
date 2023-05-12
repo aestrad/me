@@ -1,6 +1,6 @@
 ## About me
 
-Senior Software Engineer | Passionate about Python, C#, ASP.NET, JavaScript/TypeScript, Angular, ReactJs, and C | Experienced IAM Engineer with expertise in Azure AD, Active Directory, OAuth, OpenID Connect, SAML, LDAP, and IdM and designing performant systems.
+Senior Software Architect | Passionate about Python, C#, ASP.NET, JavaScript/TypeScript, Angular, AI and ML | Experienced IAM Engineer with expertise in Azure AD, Active Directory, OAuth, OpenID Connect, SAML, LDAP, and IdM and designing performant systems.
 
 About: I believe in the philosophy that "there is more happiness in giving than there is in receiving." As a professional developer with over 13 years of experience, I have used a broad range of technologies and specialize in creating applications using PHP, Python, Node, C#, ASP.NET, JavaScript/TypeScript, Angular, ReactJs, and C. In addition, I have extensive experience as an IAM Engineer, responsible for the development and implementation of Identity Management (IdM), also known as Identity and Access Management (IAM). I have a particular expertise in Azure AD, Active Directory.
 
@@ -13,9 +13,10 @@ As a professional developer with over 13 years of experience, I have used a broa
 Top skills
 
 API Development .NET Framework DevSecOps Agile Web Development Microsoft SQL Server Azure Active Directory Active Directory Microsoft Identity Manager 2016 SAP
+OpenID Connect, SAML, LDAP
 
 
 
 ### Contact
 
-abestrad at outlook dot com
+| abestrad at outlook dot com | https://www.linkedin.com/in/abestrad/ | https://twitter.com/0x4A6F686E
